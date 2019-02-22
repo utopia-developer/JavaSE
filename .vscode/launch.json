@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Quiz4_4",
+            "request": "launch",
+            "mainClass": "Quiz4_4",
+            "projectName": "Java SE_3d7166c1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TypeExchange",
+            "request": "launch",
+            "mainClass": "TypeExchange",
+            "projectName": "Java SE_3d7166c1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharDemo",
+            "request": "launch",
+            "mainClass": "CharDemo",
+            "projectName": "Java SE_3d7166c1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Quiz3_9",
             "request": "launch",
             "mainClass": "Quiz3_9"
