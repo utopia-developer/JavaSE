@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Quiz3_9",
+            "request": "launch",
+            "mainClass": "Quiz3_9"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FloatDemo",
             "request": "launch",
             "mainClass": "FloatDemo"
