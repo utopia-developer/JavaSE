@@ -1,4 +1,4 @@
-import java.java.util.Scanner;
+import java.util.Scanner;
 
 /**
  * LeapYear 判断输入的年份是否是闰年
@@ -14,5 +14,6 @@ public class LeapYear {
         } else {
             System.out.println(year + "不是闰年");
         }
+        sc.close();
     }
 }
