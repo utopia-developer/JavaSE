@@ -2,6 +2,31 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quiz3_6",
+            "request": "launch",
+            "mainClass": "Quiz3_6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quiz2_7",
+            "request": "launch",
+            "mainClass": "Quiz2_7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quiz2_7",
+            "request": "launch",
+            "mainClass": "Quiz2_7",
+            "projectName": "Java SE_3d7166c1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Quiz4_4",
             "request": "launch",
             "mainClass": "Quiz4_4",
