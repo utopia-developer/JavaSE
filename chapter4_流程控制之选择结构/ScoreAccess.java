@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * SocreAccess 成绩评定
  */
-public class SocreAccess {
+public class ScoreAccess {
 
     public static void main(String[] args) {
         System.out.println("请输入成绩：");

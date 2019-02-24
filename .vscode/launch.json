@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Quiz2_8",
+            "request": "launch",
+            "mainClass": "Quiz2_8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharOutput",
+            "request": "launch",
+            "mainClass": "CharOutput"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Quiz2_5",
             "request": "launch",
             "mainClass": "Quiz2_5"
