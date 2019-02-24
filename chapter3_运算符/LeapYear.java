@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 /**
- * LeapYear 判断输入的年份是否是闰年
+ * LeapYear 
+ * 判断输入的年份是否是闰年
  */
 public class LeapYear {
 

@@ -1,5 +1,6 @@
 /**
  * TypeExchange
+ * 类型转换
  */
 public class TypeExchange {
 
