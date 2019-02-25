@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FactorialPlus",
+            "request": "launch",
+            "mainClass": "FactorialPlus"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quiz4_7",
+            "request": "launch",
+            "mainClass": "Quiz4_7"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Quiz2_8",
             "request": "launch",
             "mainClass": "Quiz2_8"
