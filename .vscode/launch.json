@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Quiz5_3",
+            "request": "launch",
+            "mainClass": "Quiz5_3"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FactorialPlus",
             "request": "launch",
             "mainClass": "FactorialPlus"
