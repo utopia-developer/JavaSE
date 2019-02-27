@@ -2,6 +2,25 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Quiz3_3",
+            "request": "launch",
+            "mainClass": "Quiz3_3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quiz2_4",
+            "request": "launch",
+            "mainClass": "Quiz2_4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quiz2_4",
+            "request": "launch",
+            "mainClass": "Quiz2_4",
+            "projectName": "Java SE_3d7166c1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayDemo",
             "request": "launch",
             "mainClass": "ArrayDemo",
