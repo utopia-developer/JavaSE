@@ -1,3 +1,5 @@
+package part1_基础语法.chapter6_一维数组;
+
 /**
  * Quiz4_4
  */

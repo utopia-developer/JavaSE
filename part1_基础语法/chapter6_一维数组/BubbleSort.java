@@ -1,3 +1,5 @@
+package part1_基础语法.chapter6_一维数组;
+
 public class BubbleSort{
     public static void main(String[] args){
         int[] sort = {34, 53, 12, 32, 56, 17};

@@ -1,3 +1,5 @@
+package part1_基础语法.chapter2_常量与变量;
+
 /**
  * Quiz3_9
  */
