@@ -1,3 +1,5 @@
+package part1_基础语法.chapter8_方法;
+
 /**
  * Quiz2_4
  */

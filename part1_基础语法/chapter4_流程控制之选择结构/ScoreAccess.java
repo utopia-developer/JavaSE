@@ -1,3 +1,5 @@
+package part1_基础语法.chapter4_流程控制之选择结构;
+
 import java.util.Scanner;
 
 /**

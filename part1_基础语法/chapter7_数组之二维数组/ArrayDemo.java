@@ -1,3 +1,5 @@
+package part1_基础语法.chapter7_数组之二维数组;
+
 /**
  * ArrayDemo
  */
@@ -10,7 +12,7 @@ public class ArrayDemo {
         double[] doubleArray[];
         //创建四行两列的数组
         intArray = new int[4][2];
-        
+
         //二维数组声明时可以只但必须指定行数而不指定列数
         floatArray = new float[3][];
         //指定列数的方法

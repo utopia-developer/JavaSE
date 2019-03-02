@@ -1,3 +1,5 @@
+package part1_基础语法.chapter7_数组之二维数组;
+
 import java.util.Scanner;
 
 /**

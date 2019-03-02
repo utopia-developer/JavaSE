@@ -1,3 +1,5 @@
+package part1_基础语法.chapter8_方法;
+
 /**
  * ArrayDemo
  * 方法传值问题2 - 引用数据类型（未改变地址）
@@ -22,7 +24,7 @@ public class ArrayDemo1 {
         System.out.println();
 
         demo.update(array);
-        
+
         System.out.println("方法执行后的array为：");
         for (int n : array) {
             System.out.print(n + "  ");

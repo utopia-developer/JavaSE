@@ -1,3 +1,5 @@
+package part1_基础语法.chapter8_方法;
+
 /**
  * AddDemo
  * 方法传值问题1 - 基本数据类型

@@ -1,3 +1,5 @@
+package part1_基础语法.chapter3_运算符;
+
 /**
  * Quiz3_6
  */

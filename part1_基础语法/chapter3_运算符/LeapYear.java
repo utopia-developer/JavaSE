@@ -1,7 +1,9 @@
+package part1_基础语法.chapter3_运算符;
+
 import java.util.Scanner;
 
 /**
- * LeapYear 
+ * LeapYear
  * 判断输入的年份是否是闰年
  */
 public class LeapYear {

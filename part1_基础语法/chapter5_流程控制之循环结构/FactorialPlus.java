@@ -1,5 +1,7 @@
+package part1_基础语法.chapter5_流程控制之循环结构;
+
 /**
- * FactorialPlus 
+ * FactorialPlus
  * 求1-10的阶乘的累加和
  */
 public class FactorialPlus {
