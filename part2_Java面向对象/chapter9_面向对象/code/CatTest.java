@@ -1,4 +1,4 @@
-package part2_Java面向对象.chapter9_面向对象;
+package part2_Java面向对象.chapter9_面向对象.code;
 
 public class CatTest {
     public static void main(String[] args) {
