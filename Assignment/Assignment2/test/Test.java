@@ -17,7 +17,7 @@ public class Test {
         Job job2 = new Job("助理", "J002");
         Job job3 = new Job("经理", "J003");
         //实例化员工
-        Employee employee1 = new Employee("张铭", "S001", '男', 29, department1, job3);
+        Employee employee1 = new Employee("张铭", "S001", '男', 79, department1, job3);
         Employee employee2 = new Employee("李艾爱", "S002", '女', 21, department1, job2);
         Employee employee3 = new Employee("孙超", "S004", '男', 29, department1, job1);
         Employee employee4 = new Employee("张美美", "S005", '女', 26, department2, job1);

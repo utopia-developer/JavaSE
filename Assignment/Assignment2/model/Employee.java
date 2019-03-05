@@ -53,13 +53,12 @@ public class Employee {
     //年龄限制
     public int getEmployeeAge() {
         if (employeeAge < 18 || employeeAge > 65) {
-            this.employeeAge = 18;
+            return this.employeeAge = 18;
         }
         return employeeAge;
     }
 
     public void setEmployeeAge(int employeeAge) {
-
         this.employeeAge = employeeAge;
     }
 
