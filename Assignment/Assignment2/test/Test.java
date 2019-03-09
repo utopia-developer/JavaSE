@@ -1,8 +1,8 @@
-package Assignment2.test;
+package Assignment.Assignment2.test;
 
-import Assignment2.model.Department;
-import Assignment2.model.Employee;
-import Assignment2.model.Job;
+import Assignment.Assignment2.model.Department;
+import Assignment.Assignment2.model.Employee;
+import Assignment.Assignment2.model.Job;
 
 /**
  * 测试类

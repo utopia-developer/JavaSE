@@ -1,4 +1,4 @@
-package Assignment2.model;
+package Assignment.Assignment2.model;
 
 /**
  * 部门类
