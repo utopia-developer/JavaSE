@@ -15,13 +15,24 @@ public class Test {
         three.eat();
         System.out.println("=============================");
         //向下转型
-        Cat cat = (Cat) two;
-        cat.eat();
-        cat.run();
-        cat.setName("花花");
-        System.out.println(cat.getName());
+        if (two instanceof Cat) {
+            Cat cat = (Cat) two;
+            cat.eat();
+            cat.run();
+            cat.setName("花花");
+            System.out.println(cat.getName());
+        }
+        if (two instanceof Animal) {
+            System.out.println("Animal");
+        }
+        if (two instanceof Object) {
+            System.out.println("Object");
+        }
         //ClassCastException - 无法对Cat类型的实例two强制转型为Dog类型
-        Dog dog = (Dog) two;
-        dog.eat();
+        //可以通过instanceof运算符进行判断
+        if (two instanceof Dog) {
+            Dog dog = (Dog) two;
+            dog.eat();
+        }
     }
 }
