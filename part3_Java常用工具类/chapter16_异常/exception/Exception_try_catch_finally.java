@@ -3,7 +3,7 @@ package part3_Java常用工具类.chapter16_异常.exception;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ExceptionOne {
+public class Exception_try_catch_finally {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {
