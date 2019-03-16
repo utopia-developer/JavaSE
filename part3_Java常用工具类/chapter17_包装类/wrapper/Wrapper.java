@@ -1,6 +1,6 @@
 package part3_Java常用工具类.chapter17_包装类.wrapper;
 
-public class Wrap {
+public class Wrapper {
     public static void main(String[] args) {
         //自动装箱
         int n1 = 2;
