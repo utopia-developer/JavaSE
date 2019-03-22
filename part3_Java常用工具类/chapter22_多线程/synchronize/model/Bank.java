@@ -36,7 +36,7 @@ public class Bank {
     public synchronized void saveAccount() {
         int balance = getBalance();
         balance += 100;
-        //模拟异常中断
+        //模拟线程被打断
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
@@ -50,7 +50,7 @@ public class Bank {
         synchronized (this) {
             int balance = getBalance();
             balance -= 200;
-            //模拟异常中断
+            //模拟线程被打断
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
